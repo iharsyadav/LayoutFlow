@@ -1,20 +1,15 @@
 @import "tailwindcss";
 
-/* =========================
-   THEME CONFIGURATION
-========================= */
+:root{
+  --sand: #F0EDE5;
+  --cyprus: #004643;
+  --dark: #012A2A;
+  --light: #F8F7F2;
+  --muted: #BFC7C7;
+}
 
-@theme {
-
-  /* COLORS */
-
-  --color-primary: #fbbf24;
-
-  --color-dark: #09090b;
-
-  --color-card: #18181b;
-
-  --color-muted: #a1a1aa;
-
-  /* FONTS */
+body{
+  background: var(--sand);
+  color: var(--dark);
+  font-family: sans-serif;
 }
