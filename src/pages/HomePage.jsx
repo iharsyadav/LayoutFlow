@@ -6,7 +6,7 @@ import HeroSection from "../components/ui/HeroSection";
 
 import SectionTitle from "../components/common/SectionTitle";
 
-import GridGallery from "../components/GridGallery/GridGallery";
+import GridGallery from "../components/gridgallery/GridGallery";
 
 import BlogCard from "../components/cards/BlogCard";
 
