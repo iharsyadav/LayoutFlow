@@ -2,7 +2,7 @@ const Navbar = () => {
   return (
     <header className="sticky top-0 z-50 border-b bg-[#004643]/90 border-[#003330] backdrop-blur-xl">
       <nav className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
-        <h1 className="text-2xl font-bold text-amber-300">
+        <h1 className="text-2xl font-bold text-[#F0EDE5]">
           Layout<span className="text-white">Flow</span>
         </h1>
 
